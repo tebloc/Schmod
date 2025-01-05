@@ -1,0 +1,8 @@
+{
+  "package": "ninja.egirl.schmod.mixins",
+  "refmap": "mixins.schmod.refmap.json",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "MixinGuiContainer"
+  ]
+}
